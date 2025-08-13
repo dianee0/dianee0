@@ -40,9 +40,9 @@ Agile Development · Scrum
 ---
 
 ### 🚀 Recent Projects
-- [**TCG Tracker**](https://github.com/varun-kanna/TCG_Tracker) – Web app for tracking Pokémon card value with OCR and market APIs
+- [**TCG Tracker**](https://github.com/varun-kanna/TCG_Tracker) – Web app for identifying and managing Pokémon card collections, tracking market value, and estimating grading costs. Built with OCR, a third-party Pokémon database API, and the eBay API.
 - **Real-Time Trading Simulator** *(Private Repository)* – Built a market simulation tool integrating an LLM to interpret and execute natural language trading strategies. Designed the frontend dashboard, assisted with backend development using Python and Redis/Valkey for real-time trading, and engineered prompts to reduce ambiguity in AI responses.
-- [**Personal Website**](https://dpoeng.netlify.app/) – Personal portfolio built with React and deployed on Netlify
+- [**Personal Website**](https://dpoeng.netlify.app/) – Personal website built with React, Vite, Javascript, and deployed on Netlify.
 
 ---
 
